@@ -2,23 +2,23 @@
 
   "posts": [
 
-    { "id": 1, "title": "Pizza", "image":"https://static.toiimg.com/thumb/53110049.cms?width=1200&height=900" },
+    { "id": 1, "title": "Bromazepam", "image":"http://www.bolesnodete.com/wp-content/uploads/2014/04/bromazepam.jpg" },
 
-    { "id": 2, "title": "Hamburger" },
+    { "id": 2, "title": "Aspirin", "image":"https://www.internetapoteka.rs/sites/default/files/styles/product/public/images/products/100.jpg?itok=UVOi0x57" },
 
-    { "id": 3, "title": "Chicken salad" },
+    { "id": 3, "title": "Monopril", "image":"https://wikikenko.com/wp-content/uploads/2022/01/M-885.jpg" },
 
-    { "id": 4, "title": "Pasta salad" },
+    { "id": 4, "title": "Andol", "image":"https://krenizdravo.dnevnik.hr/wp-content/uploads/2013/09/andol-100-1.jpg?x11092" },
 
-    { "id": 5, "title": "Baked potato soup" },
+    { "id": 5, "title": "Brufen", "image":"https://www.brufen.com/content/dam/bss/divisionalsites/brufen/iq/en/images/new-BRUFEN-400-Pack-updated.png" },
 
-    { "id": 6, "title": "Burito" },
+    { "id": 6, "title": "Klacid", "image":"https://vinmec-prod.s3.amazonaws.com/images/20220318_032924_216214_Klacid-500mg.max-1800x1800.png" },
 
-    { "id": 7, "title": "Chocolate cake" },
+    { "id": 7, "title": "Espumisan", "image":"https://www.apotekacvejic.com/image/cache/catalog/proizvodi/4843/espumisan-kapsule-40mg-a50-580x320.webp" },
 
-    { "id": 8, "title": "Blueberry pie" },
+    { "id": 8, "title": "Cardiopirin", "image":"https://www.internetapoteka.rs/sites/default/files/styles/product-zoom/public/images/products/cardiopirin.jpg?itok=1A93W-7Z" },
 
-    { "id": 9, "title": "Ground beef" }
+    { "id": 9, "title": "Tritace", "image":"https://aligspharmacy.com/wp-content/uploads/2021/02/Tritace-5mg.jpg" }
 
 
 
